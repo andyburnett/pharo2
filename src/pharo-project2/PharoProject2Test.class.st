@@ -16,6 +16,6 @@ PharoProject2Test >> hello [
 	"scope: class-variables  &  instance-variables"	
 			
 	| ivar2 |
-	ivar2 :=1+1.
+	ivar2 :=1+1+1.
 	^ivar2.
 ]
